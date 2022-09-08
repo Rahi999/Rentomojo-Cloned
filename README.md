@@ -33,7 +33,6 @@
 
 <h1>Features</h1>
 
-<h1>Contributors</h1>
 <ul>
 <li>Login/Sign-up</li>
 <li>Houseware Products</li>
