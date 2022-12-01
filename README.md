@@ -1,6 +1,6 @@
 <h1><a href="https://csb-v02nso.netlify.app/">Clone Of Rentomojo.com</a></h1>
 
-<div>Clone Of Rentomojo.com: A Team-Collaborative Mern Project, Completed within 5 Days Of Hard Working By 4 Team-Members, Where Users Can Find Houseware Things On Rent, eg: Rooms, Furniture-Things, Laptops, Smartphones, Work From Home Essentials, etc.</div>
+<div>Clone Of Rentomojo.com: A Team-Collaborative Mern Project, Completed within 5 Days Of Hard Working By 4 Team-Members, Where Users Can Find Houseware Things On Rent, eg: Rooms, Furniture-Things, Laptops, Smartphones, and Work From Home Essentials.</div>
 
 
 
